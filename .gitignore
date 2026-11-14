@@ -1,0 +1,21 @@
+# Virtual environments
+meg1/Include/
+meg1/Lib/
+meg1/Scripts/
+meg1/pyvenv.cfg
+venv/
+.venv/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Celery beat schedule
+celerybeat-schedule*
+
+# IDE & Editor files
+.vs/
+.vscode/
+.idea/
